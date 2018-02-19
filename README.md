@@ -1,4 +1,4 @@
 # asamin
 ÌïÒ°ÂéÃÀ
 fansite
-https://github.com/yuezhuxue/asamin/
+https://yuezhuxue.github.io/asamin/
